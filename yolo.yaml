@@ -1,0 +1,8 @@
+train: Yolo_dataset/train
+val: Yolo_dataset/val
+
+names:
+  0: 1
+  1: 2
+  2: 3
+  3: 4

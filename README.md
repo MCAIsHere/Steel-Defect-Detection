@@ -2,9 +2,10 @@
 
 This project involves localizing and classifying surface defects on a steel sheet.
 Models used for comparison:
+  -  [U-Net](https://www.geeksforgeeks.org/machine-learning/u-net-architecture-explained/)
+  -  [Mask R-CNN](https://www.geeksforgeeks.org/machine-learning/mask-r-cnn-ml/)
   -  [YOLO](https://docs.ultralytics.com/#what-is-ultralytics-yolo-and-how-does-it-improve-object-detection)
-  -  [Mask R-CNN](https://arxiv.org/abs/1703.06870)
-  -  [ResNet-UNet](https://arxiv.org/abs/1505.04597)
 
 Dataset used:
   - https://www.kaggle.com/competitions/severstal-steel-defect-detection/data
+  - http://faculty.neu.edu.cn/songkc/en/zdylm/263270/list/index.htm 
