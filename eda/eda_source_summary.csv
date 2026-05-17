@@ -1,0 +1,6 @@
+source,source_split,images,defect_images,clean_images,weak_labels,class_1_images,class_2_images,class_3_images,class_4_images
+kolektor,test,1004,110,894,0,0,0,0,110
+kolektor,train,2331,246,2085,0,0,0,0,246
+neu,train,959,959,0,959,239,265,268,240
+neu,validation,240,240,0,240,60,68,73,60
+severstal,official_train,12568,6666,5902,0,897,247,5150,801

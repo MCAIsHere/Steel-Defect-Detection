@@ -1,0 +1,2 @@
+model,epochs_ran,best_epoch,best_val_dice,best_val_iou,test_dice,test_iou,optimizer,scheduler,loss,trainable_params,mean_latency_ms,throughput_img_s
+yolo11n_detect_merged,20,,0.0,0.0,0.0,0.0,AdamW,cosine,yolo11_detect_loss,0,2.0345713350658317,491.5040248356018
